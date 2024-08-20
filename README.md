@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PyPassword Generator
 
 Welcome to the PyPassword Generator! This Python script generates a secure password based on user input for the number of letters, symbols, and numbers. It's a simple tool to help you create strong passwords for enhanced security.
@@ -16,7 +15,7 @@ To use the PyPassword Generator, ensure you have Python installed on your system
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
+    git clone https://github.com/DanielThuoMuhia/Password-Generator.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -60,5 +59,3 @@ For any questions or feedback, please reach out to [daniel.thuo@students.jkuat.a
 
 Happy password generating!
 =======
-# Password-Generator
->>>>>>> ec2f48208a7aab80c75066d5c845a1fd1eeee44e
